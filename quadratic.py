@@ -1,7 +1,7 @@
 import math
 def roots(a, b, c):
     roots = "( )"
-    d = b**2 - 4*a*c
+    d = b**2 - 4*a*c#
 
     if d > 0:
         f1 = (-b + math.sqrt(d)) / (2*a)
