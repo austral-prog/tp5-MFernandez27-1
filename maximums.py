@@ -9,5 +9,5 @@ def max_of_three(x, y, z):
         return x
     elif y > x and y > z:
         return y
-    elif z > x and z > y:
+    else:
         return z
